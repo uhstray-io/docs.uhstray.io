@@ -1,2 +1,2 @@
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "daattali/beautiful-jekyll"
 permalink: /:categories/:title:output_ext
