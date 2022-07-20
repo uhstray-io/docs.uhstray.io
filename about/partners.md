@@ -1,3 +1,8 @@
+---
+title: Our Partners
+Subtitle: Communities, Instituions, Companies, Artists, and Friends we work with...
+tags: about
+---
 # Our Partner Communities
 ## The DreamyTeam
 > **The DreamyTeam community is a family of positive, inclusive and kind peoples with streamers, gamers, artists and content creators. It's a great place to find other creative streamers and grow your streaming community.**

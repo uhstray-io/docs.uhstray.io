@@ -1,6 +1,6 @@
 ---
-category: about
 title: About Us
-published: True
+Subtitle: Learn about how we operate and who we operate with...
+tags: about
 ---
 This is an about page
